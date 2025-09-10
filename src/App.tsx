@@ -2,6 +2,7 @@ import gsap from "gsap";
 
 import Hero from "./sections/Hero";
 import Navbar from "./sections/Navbar";
+import FirstVideo from "./sections/FirstVideo";
 
 import { ScrollTrigger } from "gsap/all";
 
@@ -12,6 +13,7 @@ const App = () => {
     <main>
       <Navbar />
       <Hero />
+      <FirstVideo />
     </main>
   );
 };
