@@ -15,7 +15,7 @@ const ComingSoon = () => {
             alt="ps-logo"
             className="md:w-32 w-20"
           />
-          <img src="/images/x.svg" alt="x" className="md:w-32 w-20" />
+          <img src="/images/x-logo.svg" alt="x" className="md:w-32 w-20" />
         </div>
       </div>
     </section>
