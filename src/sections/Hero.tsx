@@ -73,9 +73,6 @@ const Hero = () => {
           alt="trailer"
           className="trailer-log fade-out"
         />
-        <div className="play-img fade-out">
-          <img src="/images/play.png" alt="play" className="w-7 ml-1" />
-        </div>
       </div>
       <div>
         <img
